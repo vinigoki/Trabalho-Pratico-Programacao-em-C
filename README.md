@@ -1,5 +1,5 @@
 # Trabalho-Pratico-Programacao-em-C
-          Instruções Gerais
+Instruções Gerais
 1. O trabalho deverá ser desenvolvido em dupla.
 2. Todas as questões devem ser implementadas na linguagem C.
 3. Todos os códigos devem conter comentários explicativos.

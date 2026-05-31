@@ -1,3 +1,13 @@
+// Crie um programa que declare variáveis dos tipos
+//inteiro;
+//float;
+//char;
+// O programa deve armazenar:
+//idade;
+//altura;
+//inicial do nome;
+// Ao final, exiba os valores na tela.
+//--------------------------------------------------------------------------------------------------//
 #include <stdio.h> // Biblioteca padrão de entrada e saída (printf, scanf, fgets)
 
 int main() {

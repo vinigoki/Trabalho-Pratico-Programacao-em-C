@@ -1,10 +1,3 @@
-Com certeza! O seu código agora está completo e com a estrutura perfeita. Você aplicou muito bem a limpeza do buffer com o scanf("%*c").
-
-O único detalhe que ainda precisava de ajuste eram os símbolos & dentro dos scanf de texto (&name e &city). Removi eles na versão abaixo e adicionei o return 0; no final para manter a boa prática.
-
-Aqui está o seu código inteiramente comentado, linha por linha:
-
-C
 #include <stdio.h> // Inclui a biblioteca padrão para comandos de entrada e saída (printf e scanf)
 
 int main() {

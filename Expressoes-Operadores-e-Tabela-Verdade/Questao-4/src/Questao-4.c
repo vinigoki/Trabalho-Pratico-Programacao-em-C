@@ -1,3 +1,8 @@
+//Crie um programa que leia dois números inteiros e informe:
+//se são iguais;
+//se o primeiro é maior;
+//se o segundo é maior. 
+
 #include <stdio.h> // Inclui a biblioteca padrão para comandos de entrada e saída (printf e scanf)
 
 int main() {

@@ -1,3 +1,8 @@
+//Crie um programa que leia dois números inteiros e exiba:
+//soma; 
+//divisão inteira;
+//divisão real utilizando casting. 
+
 #include <stdio.h> // Inclui a biblioteca padrão de entrada e saída (necessária para usar printf e scanf)
 
 int main() {
